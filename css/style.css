@@ -8,3 +8,13 @@ h1{
 font-size: 50px;
 color: brown;
 }
+
+.proportioned {
+    height: auto;
+    width: 600px;
+}
+.directory{
+background-color: gainsboro;
+font-size: 40px ;
+margin: 30px;
+}
