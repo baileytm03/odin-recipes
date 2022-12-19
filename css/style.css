@@ -15,7 +15,11 @@ color: brown;
     width: 600px;
 }
 .directory{
-background-color: gainsboro;
 font-size: 40px ;
-margin: 30px;
+border: 5px solid rgb(165, 162, 162);
+background-color: white;
+}
+.directorybox{
+background-color: rgba(193, 140, 54, 0.503);
+border: 7px solid black
 }
